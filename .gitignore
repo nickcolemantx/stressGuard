@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Module build outputs
+**/build/
+
+# Samsung Health SDK binaries (download manually — see libs/README.md)
+libs/*.aar
+!libs/.gitkeep

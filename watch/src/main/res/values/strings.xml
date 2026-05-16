@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StressGuard</string>
+    <string name="tile_label">Stress</string>
+    <string name="monitoring_active">Monitoring stress</string>
+</resources>
